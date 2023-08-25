@@ -1,3 +1,4 @@
+// 1.1
 // Below is a sequence of statements. What is the resulted printed by the interpreter in response to each statement?
 // Assume that the sequence is to be evaluated in the order in which it is presented.
 console.log(
@@ -29,3 +30,11 @@ console.log(
 
   (a > b ? a : a < b ? b : -1) * (a + 1)
 )
+
+// 1.2
+// Translate the following expression into JavaScript
+// ==================================================
+// 5+4+(2-(3-(6+4/5)))
+// -------------------
+//    3(6-2)(2-7)
+// ==================================================
