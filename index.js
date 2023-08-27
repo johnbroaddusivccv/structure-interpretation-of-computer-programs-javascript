@@ -43,6 +43,7 @@ console.log(
 
 console.log(5 + 4 + ((2 - (3 - (6 - 4 / 5))) / 3) * (6 - 2) * (2 - 7))
 
+// 1.3
 // Declare a Function that takes three  numbers are as an arguments and returns
 // the sum of the squares of the two larger numbers
 
