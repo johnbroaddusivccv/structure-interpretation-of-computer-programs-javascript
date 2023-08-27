@@ -42,3 +42,12 @@ console.log(
 // Desmos is sayng that the anser is :::: −0.246666666667
 
 console.log(5 + 4 + ((2 - (3 - (6 - 4 / 5))) / 3) * (6 - 2) * (2 - 7))
+
+// Declare a Function that takes three  numbers are as an arguments and returns
+// the sum of the squares of the two larger numbers
+
+function sumOfSquares(a, b, c) {
+  if (a ** a > b ** b) {
+    return
+  }
+}
