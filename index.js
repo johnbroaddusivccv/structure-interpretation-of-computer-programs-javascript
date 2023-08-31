@@ -52,3 +52,5 @@ function sumOfSquares(a, b, c) {
     return
   }
 }
+
+// 1.4
