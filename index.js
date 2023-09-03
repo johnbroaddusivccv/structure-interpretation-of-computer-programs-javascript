@@ -54,6 +54,20 @@ function sumOfSquares(a, b, c) {
 }
 
 // 1.4
+
+let bugInfo______ = {
+  name: 'bug anything with here',
+  snake_case_name: '@bug_____1',
+  camelCaseName: '@bug_____1',
+  bugAge: 22,
+}
+
+let arr = ['bug', 'cienan', 'john']
+
+console.log(arr)
+
+// console.log(bugInfo______.name)
+
 // 1.5
 // 1.6
 // 1.7
